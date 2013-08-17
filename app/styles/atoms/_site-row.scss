@@ -1,0 +1,71 @@
+/*
+
+<div class="site-row">
+	<div class="grid-wrap">
+		<div class="container"></div>
+	</div>
+</div>
+
+*/
+
+@-webkit-keyframes fade-in {
+	0% {
+		@include opacity(0);
+	}
+	100% {
+		@include opacity(1);
+	}
+}
+
+.site-row {
+	width: 100%;
+	-webkit-animation: fade-in 600ms;
+}
+
+.site-row .grid-wrap {
+	@include clearfix;
+	width: 100%;
+	max-width: 960px;
+	margin: 0 auto;
+
+	@media screen and (max-width: 670px) {
+		width: auto;
+		margin-left: 20px;
+		margin-right: 20px;
+	}
+
+	@include transition(margin 350ms);
+}
+
+.site-row .grid-wrap > .container {
+	@include column(12);
+}
+
+.site-row .grid-wrap > .container > .row {
+	@include row(12);
+}
+
+
+
+
+.site-row--chunk {
+	padding: $spacing-vertical 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

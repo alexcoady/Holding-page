@@ -1,0 +1,22 @@
+.nav {}
+
+
+
+.nav--social {
+	@include clearfix;
+}
+
+.nav--social .link {
+	float: left;
+	display: block;
+
+	margin-left: 10px;
+
+	font-size: 2em;
+	text-decoration: none;
+	line-height: $height-header;
+}
+
+.nav--social .link > .text {
+	display: none;
+}

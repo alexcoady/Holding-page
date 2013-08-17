@@ -1,0 +1,21 @@
+.site-row--header {
+	background: #111;
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	height: $height-header;
+	z-index: 100;
+}
+
+.header {
+}
+
+.header .link--logo {
+	display: block;
+	float: left;
+}
+
+.header .nav--social {
+	float: right;
+}

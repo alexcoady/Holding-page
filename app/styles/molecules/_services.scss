@@ -1,0 +1,7 @@
+.site-row--services {
+	background: $color-blue;
+}
+
+.services__item {
+	@include column(4);
+}

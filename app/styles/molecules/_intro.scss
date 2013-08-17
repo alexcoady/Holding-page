@@ -1,0 +1,10 @@
+.site-row--intro {
+	margin-top: $height-header;
+	padding-top: $spacing-vertical / 2;
+	background: $color-blue;
+}
+
+.site-row--intro .heading {
+	color: black;
+	margin-bottom: $spacing-vertical / 2;
+}
