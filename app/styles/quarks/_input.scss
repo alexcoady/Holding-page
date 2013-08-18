@@ -1,0 +1,21 @@
+input,
+textarea {
+	@include box-sizing(border-box);
+	border: 1px solid $color-blue;
+	padding: $spacing-vertical / 4;
+	font: inherit;
+	width: 100%;
+	margin: 0;
+	line-height: normal;
+}
+
+textarea {
+	height: 80px;
+}
+
+input[type="radio"],
+input[type="checkbox"] {
+	width: auto;
+	padding: 0;
+	border: 0 none;
+}

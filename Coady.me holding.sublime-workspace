@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"project",
+				"project_width"
+			],
+			[
+				"in",
+				"include	@include"
+			],
+			[
 				"trans",
 				"transparent"
 			],
@@ -284,10 +292,6 @@
 				"border-color"
 			],
 			[
-				"in",
-				"inherit"
-			],
-			[
 				"do",
 				"doGridTransform"
 			],
@@ -427,13 +431,97 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "app/index.html",
+			"settings":
+			{
+				"buffer_size": 12261,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/styles/atoms/_project-item.scss",
+			"settings":
+			{
+				"buffer_size": 299,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/scripts/main.js",
+			"settings":
+			{
+				"buffer_size": 2124,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/styles/molecules/_header.scss",
+			"settings":
+			{
+				"buffer_size": 238,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/styles/main.scss",
+			"settings":
+			{
+				"buffer_size": 730,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/styles/atoms/_site-row.scss",
+			"settings":
+			{
+				"buffer_size": 700,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/styles/molecules/_services.scss",
+			"settings":
+			{
+				"buffer_size": 91,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/styles/molecules/_projects.scss",
+			"settings":
+			{
+				"buffer_size": 74,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/styles/quarks/_paragraph.scss",
+			"settings":
+			{
+				"buffer_size": 93,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 97,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 247.0,
+		"height": 127.0,
 		"selected_items":
 		[
+			[
+				"lips",
+				"Snippet: Lorem ipsum"
+			],
 			[
 				"mark",
 				"Markdown Preview: Preview in Browser"
@@ -508,6 +596,26 @@
 	},
 	"file_history":
 	[
+		"/Users/alexcoady/Sites/Coady.me holding/app/styles/molecules/_intro.scss",
+		"/Users/alexcoady/Sites/Coady.me holding/app/styles/atoms/_site-row.scss",
+		"/Users/alexcoady/Sites/Coady.me holding/app/styles/molecules/_projects.scss",
+		"/Users/alexcoady/Sites/Coady.me holding/app/styles/utilities/settings.scss",
+		"/Users/alexcoady/Sites/Coady.me holding/app/styles/molecules/_header.scss",
+		"/Users/alexcoady/Sites/Coady.me holding/app/styles/quarks/_headings.scss",
+		"/Users/alexcoady/Sites/Coady.me holding/app/styles/atoms/_logo.scss",
+		"/Users/alexcoady/Sites/Coady.me holding/app/styles/molecules/_nav.scss",
+		"/Users/alexcoady/Sites/Coady.me holding/app/styles/main.scss",
+		"/Users/alexcoady/Sites/Coady.me holding/app/index.html",
+		"/Users/alexcoady/Sites/Coady.me holding/app/styles/quarks/_paragraph.scss",
+		"/Users/alexcoady/Sites/Coady.me holding/app/styles/atoms/_project-item.scss",
+		"/Users/alexcoady/Sites/Coady.me holding/app/styles/atoms/_body.scss",
+		"/Users/alexcoady/Sites/Coady.me holding/app/styles/atoms/_callouts.scss",
+		"/Users/alexcoady/Sites/Coady.me holding/app/styles/quarks/_links.scss",
+		"/Users/alexcoady/Sites/Coady.me holding/app/styles/utilities/font-awesome/_variables.scss",
+		"/Users/alexcoady/Sites/Coady.me holding/app/styles/utilities/font-awesome/_font-awesome.scss",
+		"/Users/alexcoady/Sites/Coady.me holding/app/styles/utilities/_grid.scss",
+		"/Users/alexcoady/Sites/Coady.me holding/app/styles/utilities/font-awesome/_icons.scss",
+		"/Users/alexcoady/Sites/Coady.me holding/app/styles/utilities/_clearfix.scss",
 		"/Users/alexcoady/Sites/AtomicCss/style/scss/_settings.scss",
 		"/Users/alexcoady/Sites/AtomicCss/style/scss/quarks/_paragraph.scss",
 		"/Users/alexcoady/Sites/AtomicCss/style/scss/quarks/_tables.scss",
@@ -615,27 +723,7 @@
 		"/Users/alexcoady/Sites/backbone-scroller/app/styles/_settings.scss",
 		"/Users/alexcoady/Sites/backbone-scroller/app/index.html",
 		"/Users/alexcoady/Sites/backbone-scroller/app/styles/main.scss",
-		"/Users/alexcoady/Sites/backbone-scroller/app/scripts/models/page-model.js",
-		"/Users/alexcoady/Sites/backbone-scroller/app/scripts/views/page-view.js",
-		"/Users/alexcoady/Sites/backbone-scroller/app/scripts/views/pages/contact-page-view.js",
-		"/Users/alexcoady/Sites/backbone-scroller/app/scripts/views/pages/about-page-view.js",
-		"/Users/alexcoady/Sites/backbone-scroller/app/scripts/views/page-collection-view.js",
-		"/Users/alexcoady/Sites/backbone-scroller/app/scripts/main.js",
-		"/Users/alexcoady/Sites/backbone-scroller/app/scripts/views/pages/blog-page-view.js",
-		"/Users/alexcoady/Sites/backbone-scroller/app/scripts/views/pages/home-page-view.js",
-		"/Users/alexcoady/Sites/backbone-scroller/app/scripts/views/navigation-page-group-view.js",
-		"/Users/alexcoady/Sites/backbone-scroller/Gruntfile.js",
-		"/Users/alexcoady/Sites/backbone-scroller/.tmp/styles/font-awesome.css",
-		"/Users/alexcoady/Sites/backbone-scroller/app/scripts/views/page-group-view.js",
-		"/Users/alexcoady/Sites/backbone-scroller/app/scripts/collections/page-collection.js",
-		"/Users/alexcoady/Sites/backbone-scroller/app/styles/_grid.scss",
-		"/Users/alexcoady/Sites/backbone-scroller/app/scripts/views/pages/project-page-view.js",
-		"/Users/alexcoady/Sites/backbone-scroller/app/scripts/views/keyboard-device-view.js",
-		"/Users/alexcoady/Sites/backbone-scroller/app/scripts/templates/keyboard-device.ejs",
-		"/Users/alexcoady/Sites/backbone-scroller/.tmp/scripts/templates.js",
-		"/Users/alexcoady/Sites/backbone-scroller/app/scripts/collections/page-group-collection.js",
-		"/Users/alexcoady/Sites/backbone-scroller/app/scripts/routes/navigation-router.js",
-		"/Users/alexcoady/Sites/backbone-scroller/app/scripts/models/view-helper-model.js"
+		"/Users/alexcoady/Sites/backbone-scroller/app/scripts/models/page-model.js"
 	],
 	"find":
 	{
@@ -654,6 +742,18 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"<div class=\"entry-content\">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod\n                            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,\n                            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo\n                            consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse\n                            cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non\n                            proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+			"var",
+			"image_",
+			"calculateMe",
+			"post",
+			"pre",
+			"parentOffset",
+			"this",
+			"class=\"logo__",
+			"logo__",
+			"$columns",
+			"span",
 			"		",
 			"##",
 			", th",
@@ -769,19 +869,7 @@
 			"Contact",
 			"contact",
 			"Contact",
-			"(9);",
-			"icon\">",
-			"color-slate-dark",
-			"40px;",
-			"<li c",
-			"<li class=\"t",
-			"i clas",
-			"nk\">",
-			"'",
-			"'perma",
-			"blog",
-			"<div class=\"container\">\n		<footer class=\"page-footer\">\n			<p class=\"text\"><%= active ? \"ACTIVE PAGE!\" : \"Not active page...\" %></p>\n		</footer>\n	</div>",
-			"Contact"
+			"(9);"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -800,8 +888,274 @@
 	"groups":
 	[
 		{
+			"selected": 2,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "app/index.html",
+					"settings":
+					{
+						"buffer_size": 12261,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9343,
+								9343
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 900.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/styles/atoms/_project-item.scss",
+					"settings":
+					{
+						"buffer_size": 299,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								137,
+								137
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/scripts/main.js",
+					"settings":
+					{
+						"buffer_size": 2124,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1622,
+								1622
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 117.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/styles/molecules/_header.scss",
+					"settings":
+					{
+						"buffer_size": 238,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								126,
+								126
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/styles/main.scss",
+					"settings":
+					{
+						"buffer_size": 730,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								365,
+								365
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/styles/atoms/_site-row.scss",
+					"settings":
+					{
+						"buffer_size": 700,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								679,
+								679
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 468.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/styles/molecules/_services.scss",
+					"settings":
+					{
+						"buffer_size": 91,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								87,
+								87
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app/styles/molecules/_projects.scss",
+					"settings":
+					{
+						"buffer_size": 74,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								71,
+								71
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "app/styles/quarks/_paragraph.scss",
+					"settings":
+					{
+						"buffer_size": 93,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								93,
+								93
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "README.md",
+					"settings":
+					{
+						"buffer_size": 97,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								97,
+								97
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -869,6 +1223,6 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 279.0,
+	"side_bar_width": 240.0,
 	"status_bar_visible": true
 }

@@ -58,8 +58,8 @@ require(['app', 'jquery', 'bootstrap'], function (app, $) {
                 project_height = $(project).height(),
                 project_width = $(project).width(),
                 
-                rangeX = range( 0, project_width, 0, (image_width - project_width ) ),
-                rangeY = range( 0, project_height, 0, (image_height - project_height ) );
+                rangeX = range( 0, project_width, 0, (image_width - project_width) ),
+                rangeY = range( 0, project_height, 0, (image_height - project_height) );
 
             $(this).on('mousemove', function (ev) {
 
@@ -78,7 +78,5 @@ require(['app', 'jquery', 'bootstrap'], function (app, $) {
 
             $(this).off('mousemove');
         });
-
-
     }
 });

@@ -1,5 +1,6 @@
 .project__item {
 	@include column(3);
+	position: relative;
 	height: 150px;
 	margin-bottom: $spacing-vertical;
 	overflow: hidden;

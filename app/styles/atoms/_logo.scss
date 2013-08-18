@@ -6,6 +6,11 @@
 
 }
 
+.logo:hover .logo__item {
+	@include transition(all 350ms);
+	fill: $color-teal;
+}
+
 .logo .logo__item--c {
 	fill: #0000FF;
 }

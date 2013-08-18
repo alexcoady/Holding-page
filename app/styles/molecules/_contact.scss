@@ -1,0 +1,11 @@
+.site-row--contact {
+	background: $color-grey-light;
+}
+
+.contact-block {
+	@include column(4);
+}
+
+.site-row--contact .input-wrap {
+	margin-bottom: $spacing-vertical / 2;
+}

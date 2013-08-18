@@ -5,6 +5,7 @@
 
 @import "compass/css3/transition";
 @import "compass/css3/opacity";
+@import "compass/css3/box-sizing";
 
 /* Utility imports */
 @import "utilities/settings";
@@ -16,6 +17,7 @@
 @import "quarks/paragraph";
 @import "quarks/links";
 @import "quarks/headings";
+@import "quarks/input";
 
 /* Atom imports */
 @import "atoms/body";
@@ -30,4 +32,4 @@
 @import "molecules/intro";
 @import "molecules/projects";
 @import "molecules/services";
-
+@import "molecules/contact";
